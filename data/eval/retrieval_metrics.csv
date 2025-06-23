@@ -1,0 +1,11 @@
+model,query_id,precision@k,recall@k,f1@k
+TF-IDF,1,0.0,0.0,0
+TF-IDF,2,0.0,0.0,0
+TF-IDF,3,0.0,0.0,0
+TF-IDF,4,0.0,0.0,0
+TF-IDF,5,0.0,0.0,0
+IndoBERT,1,0.0,0.0,0
+IndoBERT,2,0.0,0.0,0
+IndoBERT,3,0.0,0.0,0
+IndoBERT,4,0.0,0.0,0
+IndoBERT,5,0.0,0.0,0

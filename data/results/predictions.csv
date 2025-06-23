@@ -1,0 +1,6 @@
+query_id,query_text,predicted_solution,top_5_case_ids
+1,terdakwa mencuri motor di malam hari,Lain-lain,"[61, 89, 94, 108, 90]"
+2,kasus penggelapan dana koperasi,Lain-lain,"[112, 111, 30, 31, 32]"
+3,tersangka membawa narkoba dalam tas,Lain-lain,"[98, 76, 18, 38, 56]"
+4,sengketa jual beli tanah,Lain-lain,"[108, 112, 41, 30, 31]"
+5,kekerasan dalam rumah tangga,Lain-lain,"[69, 90, 30, 29, 25]"

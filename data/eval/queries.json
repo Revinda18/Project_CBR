@@ -1,0 +1,37 @@
+[
+  {
+    "query_id": 1,
+    "query": "terdakwa mencuri motor di malam hari",
+    "ground_truth": [
+      1
+    ]
+  },
+  {
+    "query_id": 2,
+    "query": "kasus penggelapan dana koperasi",
+    "ground_truth": [
+      3
+    ]
+  },
+  {
+    "query_id": 3,
+    "query": "tersangka membawa narkoba dalam tas",
+    "ground_truth": [
+      5
+    ]
+  },
+  {
+    "query_id": 4,
+    "query": "sengketa jual beli tanah",
+    "ground_truth": [
+      9
+    ]
+  },
+  {
+    "query_id": 5,
+    "query": "kekerasan dalam rumah tangga",
+    "ground_truth": [
+      12
+    ]
+  }
+]
