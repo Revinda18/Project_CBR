@@ -1,0 +1,4 @@
+model,accuracy@k,precision@k,recall@k,f1@k
+IndoBERT,0.0,0.0,0.0,0.0
+SVM-TF-IDF,0.0,0.0,0.0,0.0
+TF-IDF,0.0,0.0,0.0,0.0

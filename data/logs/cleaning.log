@@ -1,112 +1,112 @@
-[ERROR] case_001.txt - [Errno 2] No such file or directory: 'data/raw/case_001.txt'
-[ERROR] case_002.txt - [Errno 2] No such file or directory: 'data/raw/case_002.txt'
-[ERROR] case_003.txt - [Errno 2] No such file or directory: 'data/raw/case_003.txt'
-[ERROR] case_004.txt - [Errno 2] No such file or directory: 'data/raw/case_004.txt'
-[ERROR] case_005.txt - [Errno 2] No such file or directory: 'data/raw/case_005.txt'
-[ERROR] case_006.txt - [Errno 2] No such file or directory: 'data/raw/case_006.txt'
-[ERROR] case_007.txt - [Errno 2] No such file or directory: 'data/raw/case_007.txt'
-[ERROR] case_008.txt - [Errno 2] No such file or directory: 'data/raw/case_008.txt'
-[ERROR] case_009.txt - [Errno 2] No such file or directory: 'data/raw/case_009.txt'
-[ERROR] case_010.txt - [Errno 2] No such file or directory: 'data/raw/case_010.txt'
-[ERROR] case_011.txt - [Errno 2] No such file or directory: 'data/raw/case_011.txt'
-[ERROR] case_012.txt - [Errno 2] No such file or directory: 'data/raw/case_012.txt'
-[ERROR] case_013.txt - [Errno 2] No such file or directory: 'data/raw/case_013.txt'
-[ERROR] case_014.txt - [Errno 2] No such file or directory: 'data/raw/case_014.txt'
-[ERROR] case_015.txt - [Errno 2] No such file or directory: 'data/raw/case_015.txt'
-[ERROR] case_016.txt - [Errno 2] No such file or directory: 'data/raw/case_016.txt'
-[ERROR] case_017.txt - [Errno 2] No such file or directory: 'data/raw/case_017.txt'
-[ERROR] case_018.txt - [Errno 2] No such file or directory: 'data/raw/case_018.txt'
-[ERROR] case_019.txt - [Errno 2] No such file or directory: 'data/raw/case_019.txt'
-[ERROR] case_020.txt - [Errno 2] No such file or directory: 'data/raw/case_020.txt'
-[ERROR] case_021.txt - [Errno 2] No such file or directory: 'data/raw/case_021.txt'
-[ERROR] case_022.txt - [Errno 2] No such file or directory: 'data/raw/case_022.txt'
-[ERROR] case_023.txt - [Errno 2] No such file or directory: 'data/raw/case_023.txt'
-[ERROR] case_024.txt - [Errno 2] No such file or directory: 'data/raw/case_024.txt'
-[ERROR] case_025.txt - [Errno 2] No such file or directory: 'data/raw/case_025.txt'
-[ERROR] case_026.txt - [Errno 2] No such file or directory: 'data/raw/case_026.txt'
-[ERROR] case_027.txt - [Errno 2] No such file or directory: 'data/raw/case_027.txt'
-[ERROR] case_028.txt - [Errno 2] No such file or directory: 'data/raw/case_028.txt'
-[ERROR] case_029.txt - [Errno 2] No such file or directory: 'data/raw/case_029.txt'
-[ERROR] case_030.txt - [Errno 2] No such file or directory: 'data/raw/case_030.txt'
-[ERROR] case_031.txt - [Errno 2] No such file or directory: 'data/raw/case_031.txt'
-[ERROR] case_032.txt - [Errno 2] No such file or directory: 'data/raw/case_032.txt'
-[ERROR] case_033.txt - [Errno 2] No such file or directory: 'data/raw/case_033.txt'
-[ERROR] case_034.txt - [Errno 2] No such file or directory: 'data/raw/case_034.txt'
-[ERROR] case_035.txt - [Errno 2] No such file or directory: 'data/raw/case_035.txt'
-[ERROR] case_036.txt - [Errno 2] No such file or directory: 'data/raw/case_036.txt'
-[ERROR] case_037.txt - [Errno 2] No such file or directory: 'data/raw/case_037.txt'
-[ERROR] case_038.txt - [Errno 2] No such file or directory: 'data/raw/case_038.txt'
-[ERROR] case_039.txt - [Errno 2] No such file or directory: 'data/raw/case_039.txt'
-[ERROR] case_040.txt - [Errno 2] No such file or directory: 'data/raw/case_040.txt'
-[ERROR] case_041.txt - [Errno 2] No such file or directory: 'data/raw/case_041.txt'
-[ERROR] case_042.txt - [Errno 2] No such file or directory: 'data/raw/case_042.txt'
-[ERROR] case_043.txt - [Errno 2] No such file or directory: 'data/raw/case_043.txt'
-[ERROR] case_044.txt - [Errno 2] No such file or directory: 'data/raw/case_044.txt'
-[ERROR] case_045.txt - [Errno 2] No such file or directory: 'data/raw/case_045.txt'
-[ERROR] case_046.txt - [Errno 2] No such file or directory: 'data/raw/case_046.txt'
-[ERROR] case_047.txt - [Errno 2] No such file or directory: 'data/raw/case_047.txt'
-[ERROR] case_048.txt - [Errno 2] No such file or directory: 'data/raw/case_048.txt'
-[ERROR] case_049.txt - [Errno 2] No such file or directory: 'data/raw/case_049.txt'
-[ERROR] case_050.txt - [Errno 2] No such file or directory: 'data/raw/case_050.txt'
-[ERROR] case_051.txt - [Errno 2] No such file or directory: 'data/raw/case_051.txt'
-[ERROR] case_052.txt - [Errno 2] No such file or directory: 'data/raw/case_052.txt'
-[ERROR] case_053.txt - [Errno 2] No such file or directory: 'data/raw/case_053.txt'
-[ERROR] case_054.txt - [Errno 2] No such file or directory: 'data/raw/case_054.txt'
-[ERROR] case_055.txt - [Errno 2] No such file or directory: 'data/raw/case_055.txt'
-[ERROR] case_056.txt - [Errno 2] No such file or directory: 'data/raw/case_056.txt'
-[ERROR] case_057.txt - [Errno 2] No such file or directory: 'data/raw/case_057.txt'
-[ERROR] case_058.txt - [Errno 2] No such file or directory: 'data/raw/case_058.txt'
-[ERROR] case_059.txt - [Errno 2] No such file or directory: 'data/raw/case_059.txt'
-[ERROR] case_060.txt - [Errno 2] No such file or directory: 'data/raw/case_060.txt'
-[ERROR] case_061.txt - [Errno 2] No such file or directory: 'data/raw/case_061.txt'
-[ERROR] case_062.txt - [Errno 2] No such file or directory: 'data/raw/case_062.txt'
-[ERROR] case_063.txt - [Errno 2] No such file or directory: 'data/raw/case_063.txt'
-[ERROR] case_064.txt - [Errno 2] No such file or directory: 'data/raw/case_064.txt'
-[ERROR] case_065.txt - [Errno 2] No such file or directory: 'data/raw/case_065.txt'
-[ERROR] case_066.txt - [Errno 2] No such file or directory: 'data/raw/case_066.txt'
-[ERROR] case_067.txt - [Errno 2] No such file or directory: 'data/raw/case_067.txt'
-[ERROR] case_068.txt - [Errno 2] No such file or directory: 'data/raw/case_068.txt'
-[ERROR] case_069.txt - [Errno 2] No such file or directory: 'data/raw/case_069.txt'
-[ERROR] case_070.txt - [Errno 2] No such file or directory: 'data/raw/case_070.txt'
-[ERROR] case_071.txt - [Errno 2] No such file or directory: 'data/raw/case_071.txt'
-[ERROR] case_072.txt - [Errno 2] No such file or directory: 'data/raw/case_072.txt'
-[ERROR] case_073.txt - [Errno 2] No such file or directory: 'data/raw/case_073.txt'
-[ERROR] case_074.txt - [Errno 2] No such file or directory: 'data/raw/case_074.txt'
-[ERROR] case_075.txt - [Errno 2] No such file or directory: 'data/raw/case_075.txt'
-[ERROR] case_076.txt - [Errno 2] No such file or directory: 'data/raw/case_076.txt'
-[ERROR] case_077.txt - [Errno 2] No such file or directory: 'data/raw/case_077.txt'
-[ERROR] case_078.txt - [Errno 2] No such file or directory: 'data/raw/case_078.txt'
-[ERROR] case_079.txt - [Errno 2] No such file or directory: 'data/raw/case_079.txt'
-[ERROR] case_080.txt - [Errno 2] No such file or directory: 'data/raw/case_080.txt'
-[ERROR] case_081.txt - [Errno 2] No such file or directory: 'data/raw/case_081.txt'
-[ERROR] case_082.txt - [Errno 2] No such file or directory: 'data/raw/case_082.txt'
-[ERROR] case_083.txt - [Errno 2] No such file or directory: 'data/raw/case_083.txt'
-[ERROR] case_084.txt - [Errno 2] No such file or directory: 'data/raw/case_084.txt'
-[ERROR] case_085.txt - [Errno 2] No such file or directory: 'data/raw/case_085.txt'
-[ERROR] case_086.txt - [Errno 2] No such file or directory: 'data/raw/case_086.txt'
-[ERROR] case_087.txt - [Errno 2] No such file or directory: 'data/raw/case_087.txt'
-[ERROR] case_088.txt - [Errno 2] No such file or directory: 'data/raw/case_088.txt'
-[ERROR] case_089.txt - [Errno 2] No such file or directory: 'data/raw/case_089.txt'
-[ERROR] case_090.txt - [Errno 2] No such file or directory: 'data/raw/case_090.txt'
-[ERROR] case_091.txt - [Errno 2] No such file or directory: 'data/raw/case_091.txt'
-[ERROR] case_092.txt - [Errno 2] No such file or directory: 'data/raw/case_092.txt'
-[ERROR] case_093.txt - [Errno 2] No such file or directory: 'data/raw/case_093.txt'
-[ERROR] case_094.txt - [Errno 2] No such file or directory: 'data/raw/case_094.txt'
-[ERROR] case_095.txt - [Errno 2] No such file or directory: 'data/raw/case_095.txt'
-[ERROR] case_096.txt - [Errno 2] No such file or directory: 'data/raw/case_096.txt'
-[ERROR] case_097.txt - [Errno 2] No such file or directory: 'data/raw/case_097.txt'
-[ERROR] case_098.txt - [Errno 2] No such file or directory: 'data/raw/case_098.txt'
-[ERROR] case_099.txt - [Errno 2] No such file or directory: 'data/raw/case_099.txt'
-[ERROR] case_100.txt - [Errno 2] No such file or directory: 'data/raw/case_100.txt'
-[ERROR] case_101.txt - [Errno 2] No such file or directory: 'data/raw/case_101.txt'
-[ERROR] case_102.txt - [Errno 2] No such file or directory: 'data/raw/case_102.txt'
-[ERROR] case_103.txt - [Errno 2] No such file or directory: 'data/raw/case_103.txt'
-[ERROR] case_104.txt - [Errno 2] No such file or directory: 'data/raw/case_104.txt'
-[ERROR] case_105.txt - [Errno 2] No such file or directory: 'data/raw/case_105.txt'
-[ERROR] case_106.txt - [Errno 2] No such file or directory: 'data/raw/case_106.txt'
-[ERROR] case_107.txt - [Errno 2] No such file or directory: 'data/raw/case_107.txt'
-[ERROR] case_108.txt - [Errno 2] No such file or directory: 'data/raw/case_108.txt'
-[ERROR] case_109.txt - [Errno 2] No such file or directory: 'data/raw/case_109.txt'
-[ERROR] case_110.txt - [Errno 2] No such file or directory: 'data/raw/case_110.txt'
-[ERROR] case_111.txt - [Errno 2] No such file or directory: 'data/raw/case_111.txt'
-[ERROR] case_112.txt - [Errno 2] No such file or directory: 'data/raw/case_112.txt'
+[OK] case_001.txt
+[OK] case_002.txt
+[OK] case_003.txt
+[OK] case_004.txt
+[OK] case_005.txt
+[ERROR] case_006.txt - object of type 'float' has no len()
+[OK] case_007.txt
+[OK] case_008.txt
+[OK] case_009.txt
+[OK] case_010.txt
+[OK] case_011.txt
+[OK] case_012.txt
+[OK] case_013.txt
+[OK] case_014.txt
+[OK] case_015.txt
+[OK] case_016.txt
+[OK] case_017.txt
+[OK] case_018.txt
+[OK] case_019.txt
+[OK] case_020.txt
+[OK] case_021.txt
+[OK] case_022.txt
+[OK] case_023.txt
+[OK] case_024.txt
+[OK] case_025.txt
+[OK] case_026.txt
+[OK] case_027.txt
+[OK] case_028.txt
+[OK] case_029.txt
+[OK] case_030.txt
+[OK] case_031.txt
+[OK] case_032.txt
+[OK] case_033.txt
+[OK] case_034.txt
+[OK] case_035.txt
+[OK] case_036.txt
+[OK] case_037.txt
+[OK] case_038.txt
+[OK] case_039.txt
+[OK] case_040.txt
+[OK] case_041.txt
+[OK] case_042.txt
+[OK] case_043.txt
+[OK] case_044.txt
+[OK] case_045.txt
+[OK] case_046.txt
+[OK] case_047.txt
+[OK] case_048.txt
+[OK] case_049.txt
+[OK] case_050.txt
+[OK] case_051.txt
+[OK] case_052.txt
+[OK] case_053.txt
+[OK] case_054.txt
+[OK] case_055.txt
+[OK] case_056.txt
+[OK] case_057.txt
+[OK] case_058.txt
+[OK] case_059.txt
+[OK] case_060.txt
+[OK] case_061.txt
+[OK] case_062.txt
+[OK] case_063.txt
+[OK] case_064.txt
+[OK] case_065.txt
+[OK] case_066.txt
+[OK] case_067.txt
+[OK] case_068.txt
+[OK] case_069.txt
+[OK] case_070.txt
+[OK] case_071.txt
+[OK] case_072.txt
+[OK] case_073.txt
+[OK] case_074.txt
+[OK] case_075.txt
+[OK] case_076.txt
+[OK] case_077.txt
+[OK] case_078.txt
+[OK] case_079.txt
+[OK] case_080.txt
+[OK] case_081.txt
+[OK] case_082.txt
+[OK] case_083.txt
+[OK] case_084.txt
+[OK] case_085.txt
+[OK] case_086.txt
+[OK] case_087.txt
+[OK] case_088.txt
+[OK] case_089.txt
+[OK] case_090.txt
+[OK] case_091.txt
+[OK] case_092.txt
+[OK] case_093.txt
+[OK] case_094.txt
+[OK] case_095.txt
+[OK] case_096.txt
+[OK] case_097.txt
+[OK] case_098.txt
+[OK] case_099.txt
+[OK] case_100.txt
+[OK] case_101.txt
+[OK] case_102.txt
+[ERROR] case_103.txt - object of type 'float' has no len()
+[OK] case_104.txt
+[OK] case_105.txt
+[OK] case_106.txt
+[OK] case_107.txt
+[OK] case_108.txt
+[OK] case_109.txt
+[OK] case_110.txt
+[OK] case_111.txt
+[ERROR] case_112.txt - object of type 'float' has no len()

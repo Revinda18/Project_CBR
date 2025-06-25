@@ -1,0 +1,16 @@
+model,query_id,precision@5,recall@5,f1@5,accuracy@5
+TF-IDF,1,0.0,0.0,0.0,0
+TF-IDF,2,0.0,0.0,0.0,0
+TF-IDF,3,0.0,0.0,0.0,0
+TF-IDF,4,0.0,0.0,0.0,0
+TF-IDF,5,0.0,0.0,0.0,0
+SVM-TF-IDF,1,0.0,0.0,0.0,0
+SVM-TF-IDF,2,0.0,0.0,0.0,0
+SVM-TF-IDF,3,0.0,0.0,0.0,0
+SVM-TF-IDF,4,0.0,0.0,0.0,0
+SVM-TF-IDF,5,0.0,0.0,0.0,0
+IndoBERT,1,0.0,0.0,0.0,0
+IndoBERT,2,0.2,1.0,0.333,1
+IndoBERT,3,0.0,0.0,0.0,0
+IndoBERT,4,0.0,0.0,0.0,0
+IndoBERT,5,0.0,0.0,0.0,0
